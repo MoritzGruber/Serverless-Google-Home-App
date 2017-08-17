@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "actions-on-google": "^1.2.0",
+    "request": "^2.81.0"
+  }
+}
